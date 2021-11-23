@@ -50,5 +50,5 @@ Boton boton1,boton2,boton3,boton4;
      estadoJuego="inicio";
    }
  
+ } 
  }
- 

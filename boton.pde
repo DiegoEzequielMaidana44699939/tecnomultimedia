@@ -35,8 +35,9 @@ Boton( String label_ , float x_  , float y_,float ancho_ ,float alto_ ){
     popStyle();
     if(DEBUG){
     line(mouseX,mouseY,x,y);
-
-}
+  }
+    }
+  }
 boolean mouseEstaEncima(){
   if(mouseX > x-ancho/2 && mouseX < x+ancho/2
   && mouseY > y-alto/2 && mouseY < y+alto/2){

@@ -1,9 +1,9 @@
 class Fondo{
   PImage imgFondo;
-}
+
   
   Fondo(){
-    imgFondo = loadImage("pixel-con-el-bosque-y-los-arbustos-119096815.jpg");
+    imgFondo = loadImage("depositphotos_202939306-stock-illustration-landscape-pixel-art-style-blue.jpg");
   
 }
 
