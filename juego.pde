@@ -2,9 +2,9 @@ class Juego{
   Fondo fondo;
 Boton boton1,boton2,boton3,boton4;
  String estadoJuego;
-}
+
  
- juego(){
+ Juego(){
    fondo= new Fondo();
    estadoJuego="inicio";
     boton1 = new Boton( "Comenzar",width/2,height,300,100   );
@@ -52,3 +52,4 @@ Boton boton1,boton2,boton3,boton4;
  
  } 
  }
+}

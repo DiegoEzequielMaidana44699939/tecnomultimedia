@@ -8,7 +8,7 @@ class Fondo{
 }
 
 void draw(){
-  image(imgFondo,x,0,1000,500);
+ 
   
 }
 }

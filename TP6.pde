@@ -1,3 +1,5 @@
+// diego ezequiel maidana 
+//comision 3
 Juego juego;
 boolean DEBUG=false;
 void setup(){
@@ -7,10 +9,5 @@ size(500,500);
 
 void draw(){
 background(255);
-fondo.draw();
  juego.actualizar();
-}
-
-void mousePressed(){
-  juego.Click();
 }
